@@ -1,0 +1,34 @@
+__________.__                        __________                     .__                  
+\______   \  |   ________________    \______   \ ____   ____   ____ |  |__   ___________ 
+ |    |  _/  |  /  _ \_  __ \__  \    |    |  _// __ \ /    \_/ ___\|  |  \_/ __ \_  __ \
+ |    |   \  |_(  <_> )  | \// __ \_  |    |   \  ___/|   |  \  \___|   Y  \  ___/|  | \/
+ |______  /____/\____/|__|  (____  /  |______  /\___  >___|  /\___  >___|  /\___  >__|   
+        \/                       \/          \/     \/     \/     \/     \/     \/       
+
+# BloraBencher
+
+**BloraBencher** is a somewhat lightweight, CLI-based Windows application designed to benchmark, detect, and monitor your PC hardware effortlessly. With BloraBencher, you can:  
+
+- Benchmark your **CPU** and **GPU**
+- Monitor real-time **system performance**
+- Analyze and track hardware stats in detail
+- Available in **multiple languages**
+
+BloraBencher is super easy to use — just download the `.exe` and you’re ready to go. Perfect for gamers, coders, and tech enthusiasts who want a quick and reliable way to see what their PC is really capable of.  
+
+---
+
+### Features
+- **CPU Benchmarking** – Test single-core and multi-core performance  
+- **GPU Benchmarking** – Measure graphics performance with ease  
+- **System Monitor** – Real-time monitoring of CPU, GPU, RAM, and more  
+- **Cross-language support** – Works in multiple languages  
+
+### Getting Started
+1. Download the latest `.exe` from the releases section.  
+2. Just run it.
+3. Follow the CLI prompts to benchmark or monitor your system.  
+
+---
+
+Thanks **Lystech Org** !
