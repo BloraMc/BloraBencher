@@ -4,9 +4,7 @@ __________.__                        __________                     .__
  |    |   \  |_(  <_> )  | \// __ \_  |    |   \  ___/|   |  \  \___|   Y  \  ___/|  | \/
  |______  /____/\____/|__|  (____  /  |______  /\___  >___|  /\___  >___|  /\___  >__|   
         \/                       \/          \/     \/     \/     \/     \/     \/       
-
-# BloraBencher
-
+        
 **BloraBencher** is a somewhat lightweight, CLI-based Windows application designed to benchmark, detect, and monitor your PC hardware effortlessly. With BloraBencher, you can:  
 
 - Benchmark your **CPU** and **GPU**
