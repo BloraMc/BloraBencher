@@ -1,1 +1,1 @@
-bmcbackup.pythonanywhere.com
+https://bmcbackup.pythonanywhere.com/
