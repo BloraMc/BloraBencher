@@ -26,4 +26,4 @@ BloraBencher is super easy to use — just download the `.exe` and you’re read
 
 Thanks **Lystech Org** !
 WARNING : BloraBencher IS IN EARLY ALPHA !!!! Some promised features will arrive later !!!
-For now, you can only download in the OFFICIAL MediaFire : https://www.mediafire.com/file/00ni4vnqp4bsfgw/BloraBencher-1.0p.exe/file
+For now, you can only download is here : https://github.com/BloraMc/BloraBencher/releases
