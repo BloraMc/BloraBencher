@@ -1,6 +1,6 @@
 # BloraBencher
 
-**BloraBencher** is a somewhat lightweight, CLI-based Windows application designed to benchmark, detect, and monitor your PC hardware effortlessly. With BloraBencher, you can:  
+**BloraBencher** is a portable, CLI-based Windows application designed to benchmark, detect, and monitor your PC hardware effortlessly. With BloraBencher, you can:  
 
 - Benchmark your **CPU** and **GPU**
 - Monitor real-time **system performance**
